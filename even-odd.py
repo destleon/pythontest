@@ -15,3 +15,5 @@ else:
 # Now, let's say you have 11 cookies and you want to share them among your friends, again giving 2 cookies to each friend. 
 # This time, you can give 2 cookies to the first 5 friends, which is 10 cookies, but you'll have 1 cookie left. So, 11 divided by 2 is 5 with a remainder of 1. 
 # You can say that 11 % 2 equals 1.
+
+# new comment
